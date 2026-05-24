@@ -1,6 +1,6 @@
 # SNA — Global Nickel Trade Network Analysis
 
-Code and datasets for the Social Network Analysis (SNA) assignment by **Group 3**.
+Code and datasets for the course Social Network Analysis (SNA).
 
 This project models the **global nickel trade** as a weighted, directed network and
 uses social network analysis methods (MRQAP and ERGM) to test whether downstream
@@ -27,6 +27,7 @@ brought in from the datasets listed below.
 SNA/
 ├── README.md
 ├── SNA-nickeltrade_notebook.Rmd   # Main analysis notebook (R Markdown)
+├── Report.pdf                     # Contains the assignment report
 └── datasets/
     ├── TradeData_nickel.csv           # UN Comtrade nickel trade flows (edges)
     ├── TradeData_EV_exports.csv       # Electric vehicle exports per country
